@@ -26,4 +26,4 @@ Some Fun Facts about me:
 [My LinkedIn Profile](https://www.linkedin.com/in/amber-grice-rudisell)
 
 ## My Resume
-[Download My Resume](file:///C:/Users/Amber/OneDrive/Documents/Logistics%20Data%20Analyst%202025.pdf)
+[Download My Resume][(https://1drv.ms/w/c/4b6a28b17cbcba90/Eft6ikjeZntNjrCiYTGcODUBwicN29eFnjVkfNUPpkf3fQ?e=BFXtec)]
