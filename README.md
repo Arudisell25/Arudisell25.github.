@@ -10,6 +10,9 @@
 - Power Bi
 - Advanced Excel
 - Python 
+
+
+
 Some Fun Facts about me:
 - 🦋I am a member of toastmasters where I currently advancing me skills in public speaking
 - 🤸I am a gym girlie
