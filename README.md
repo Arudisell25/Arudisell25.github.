@@ -26,5 +26,5 @@ Some Fun Facts about me:
 [My LinkedIn Profile](https://www.linkedin.com/in/amber-grice-rudisell)
 
 ## My Resume
-<object data="<Logistics Data Analyst 2025.pdf>" width="1000" height="1000" type='application/pdf'></object>
+[<object data="<Logistics Data Analyst 2025.pdf>" width="1000" height="1000" type='application/pdf'></object>](https://<username>.github.io/<repository-name>/<path-to-your-pdf>)
 
