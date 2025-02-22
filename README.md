@@ -25,5 +25,4 @@ Some Fun Facts about me:
 ## Connect with ME 
 [My LinkedIn Profile](https://www.linkedin.com/in/amber-grice-rudisell)
 
-## My Resume
-[(https://<Arudisell25>.github.io/<Arudisell25>/<Logistics Data Analyst 2025.pdf>)]
+
