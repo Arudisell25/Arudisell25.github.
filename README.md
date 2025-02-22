@@ -2,22 +2,22 @@
 
 -😊I am currently learning Business Intelligence Analytics
 -🚄🛤️✈️ I am experienced in international logistics which I have been working in for over 12 years
-- 🦾I have created a dashboard providing insight on the rate of returns based off different factors
-- This  dashboard provides feedback to the company has to what may be the reason for returns based off facts such as region and product
-- Some of current skills Are
+
+- Some of my current skills Are
 - Tableau
 - SQL
 - Power Bi
 - Advanced Excel/Macros
-- Python
+- Python Programming 
 - Data Visualization and Story Telling  
 - SAP/ERP
 
-
+- 🦾I have created a dashboard providing insight on the rate of returns based off different factors
+- This  dashboard provides feedback to the company as to what may be the reason for returns based off criteria such as region and product category
 
 
 Some Fun Facts about me:
-- 🦋I am a member of toastmasters where I currently advancing my skills in public speaking
+- 🦋I am a member of toastmasters where I am currently advancing my skills in public speaking
 - 🤸I am a gym girlie
 - 🤭I am not a big cooker so I love trying new restaurants
 
